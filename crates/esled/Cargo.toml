@@ -1,0 +1,11 @@
+[package]
+name = "esled"
+version = "0.1.0"
+authors = ["Evan Vigil-McClanahan <mcclanahan@gmail.com>"]
+edition = "2018"
+
+[lib]
+crate-type = ["dylib"]
+
+[dependencies]
+sled = "0.23.0"

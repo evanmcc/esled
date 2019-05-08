@@ -1,0 +1,10 @@
+{"1.1.0",
+[{<<"jsx">>,{pkg,<<"jsx">>,<<"2.8.2">>},1},
+ {<<"rebar3_rust">>,
+  {git,"https://github.com/goertzenator/rebar3_rust",
+       {ref,"fa5b67b7e844e1c91359252a7f882ce96c18bbaa"}},
+  0}]}.
+[
+{pkg_hash,[
+ {<<"jsx">>, <<"7ACC7D785B5ABE8A6E9ADBDE926A24E481F29956DD8B4DF49E3E4E7BCC92A018">>}]}
+].
